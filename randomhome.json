@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "songid": "a3a52037-006e-48f3-bbcf-e6930ea059a3",
+      "songname": "Stylish Lo Fi Chill",
+      "userid": "Coma-Media",
+      "trackid": "https://cdn.pixabay.com/download/audio/2021/12/10/audio_8baa857399.mp3?filename=stylish-lo-fi-chill-11952.mp3",
+      "duration": "2:16",
+      "cover_image_url": "https://images.unsplash.com/photo-1571615112700-755bd763b63e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjQwNTF8MHwxfHNlYXJjaHw0MHx8Y29uY2VydHxlbnwwfHx8fDE2MzI5MTA0OTM&ixlib=rb-1.2.1&q=80&w=1080",
+      "first_name": "Madelaine",
+      "last_name": "Carress"
+    },
+    {
+      "songid": "f73f0342-2870-4a7f-a76a-7b63862ff931",
+      "songname": "Futuristic Timelapse",
+      "userid": "Coma-Media",
+      "trackid": "https://cdn.pixabay.com/download/audio/2021/12/10/audio_69bdb4174e.mp3?filename=futuristic-timelapse-11951.mp3",
+      "duration": "2:00",
+      "cover_image_url": "https://images.unsplash.com/photo-1621006276150-27039404abde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjQwNTF8MHwxfHNlYXJjaHw0Mnx8Y29uY2VydHxlbnwwfHx8fDE2MzI5MTA1ODI&ixlib=rb-1.2.1&q=80&w=1080",
+      "first_name": "Madelaine",
+      "last_name": "Carress"
+    },
+    {
+      "songid": "598e17fb-7314-45af-b83c-c66997dc961f",
+      "songname": "Fashion Chill",
+      "userid": "Coma-Media",
+      "trackid": "https://cdn.pixabay.com/download/audio/2021/12/10/audio_4e1c7e381d.mp3?filename=fashion-chill-11950.mp3",
+      "duration": "1:49",
+      "cover_image_url": "https://images.unsplash.com/photo-1585231015738-d528ed0c01c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjQwNTF8MHwxfHNlYXJjaHw2Nnx8c2FkfGVufDB8fHx8MTYzMjkxMDY5NQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "first_name": "Madelaine",
+      "last_name": "Carress"
+    },
+    {
+      "songid": "6f4d324b-7f0a-4d9b-b9f7-4159806fd636",
+      "songname": "Fashion Sport Rock",
+      "userid": "Coma-Media",
+      "trackid": "https://cdn.pixabay.com/download/audio/2021/12/10/audio_0f2b9301b9.mp3?filename=fashion-sport-rock-11949.mp3",
+      "duration": "1:38",
+      "cover_image_url": "https://images.unsplash.com/photo-1613972555283-10f34cf78f32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjQwNTF8MHwxfHNlYXJjaHw3MXx8ZmFjZXxlbnwwfHx8fDE2MzQzODAyNDI&ixlib=rb-1.2.1&q=80&w=1080",
+      "first_name": "Madelaine",
+      "last_name": "Carress"
+    }
+  ]
+}
